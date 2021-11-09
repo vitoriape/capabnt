@@ -74,7 +74,7 @@ $ cd coverABNT-pdfLaTex
 \documentclass[a4paper,10pt,titlepage]{article}
 ```
 
-- Userpackages
+- Packages
 
 ```tex
 \usepackage[brazilian]{babel}
