@@ -24,7 +24,7 @@ ABNT LaTex Cover
 
 ### 📌 About
 
-This project is an LaTex template for creates covers in ABNT standards. The tex file will provide a compiled PDF. 
+This project is an LaTex template for creates titlepages/covers in ABNT standards. The tex file will provide a compiled PDF. 
 This is a Tex project developed using TeX Live 2021. <i>Make sure you have at least this version installed.</i>
 
 ### 🛠 Tools
@@ -60,10 +60,10 @@ Development of this template utilizes the tools listed below:
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/vitoriape/coverABNT-pdfLaTex>
+$ git clone <https://github.com/vitoriape/titlepage_ABNT-LaTex>
 
 # Access the project folder via cmd
-$ cd coverABNT-pdfLaTex
+$ cd titlepage_ABNT-LaTex
 
 # Import the file abnt-cover.tex on a LaTeX Editors/IDEs like MiKTeX or Overleaf.
 ```
