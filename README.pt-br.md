@@ -19,11 +19,11 @@ Capa ABNT LaTex
 ---
 
 <p align="center">
- ◽ <a href="#Sobre">Sobre</a> |
- <a href="#Ferramentas">Ferramentas</a> | 
- <a href="#Recursos">Recursos</a> | 
- <a href="#Instalação">Instalação</a> |
- <a href="#Autor">Autor</a> ◽
+ ◽ <a href="#-sobre">Sobre</a> |
+ <a href="#-ferramentas">Ferramentas</a> | 
+ <a href="#-recursos">Recursos</a> | 
+ <a href="#-instalação">Instalação</a> |
+ <a href="https://github.com/vitoriape/capabnt/blob/main/README.pt-br.md#-autor">Autor</a> ◽
 </p>
 
 ### 📌 Sobre
