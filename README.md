@@ -28,7 +28,7 @@ ABNT LaTex Cover
 
 ### 📌 About
 
-> [Versão em Português (pt-br)](https://github.com/vitoriape/capabnt/blob/main/README.pt-br.md). <img src="https://camo.githubusercontent.com/dcc375ada213d3ac04a9781518098cd4d071601bc2ccfc120025cc32b6d38fab/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f62722e737667" alt="brazil flag" width="20" height="20">
+> [Versão em Português (pt-br)](https://github.com/vitoriape/capabnt/blob/main/LEIAME.md). <img src="https://camo.githubusercontent.com/dcc375ada213d3ac04a9781518098cd4d071601bc2ccfc120025cc32b6d38fab/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f62722e737667" alt="brazil flag" width="20" height="20">
 
 This project is an LaTex template for creates titlepages/covers in ABNT standards. The tex file will provide a compiled PDF. 
 This is a Tex project developed using TeX Live 2021. <i>Make sure you have at least this version installed.</i>
