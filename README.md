@@ -60,10 +60,10 @@ Development of this template utilizes the tools listed below:
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/vitoriape/titlepage-ABNT>
+$ git clone <https://github.com/vitoriape/capabnt/>
 
 # Access the project folder via cmd
-$ cd titlepage-ABNT
+$ cd capabnt
 
 # Import the file abnt-cover.tex on a LaTeX Editors/IDEs like MiKTeX or Overleaf.
 ```
