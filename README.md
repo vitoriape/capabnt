@@ -15,11 +15,11 @@ ABNT LaTex Cover
 ---
 
 <p align="center">
- ◽ <a href="#About">About</a> |
- <a href="#Tools">Tools</a> | 
- <a href="#Features">Features</a> | 
- <a href="#Setup">Setup</a> |
- <a href="#Author">Author</a> ◽
+ ◽ <a href="#-about">About</a> |
+ <a href="#-tools">Tools</a> | 
+ <a href="#-features">Features</a> | 
+ <a href="#-setup">Setup</a> |
+ <a href="#-author">Author</a> ◽
 </p>
 
 ### 📌 About
@@ -65,7 +65,7 @@ $ git clone <https://github.com/vitoriape/capabnt/>
 # Access the project folder via cmd
 $ cd capabnt
 
-# Import the file abnt-cover.tex on a LaTeX Editors/IDEs like MiKTeX or Overleaf.
+# Import the file abnt-cover.tex on a LaTeX Editors/IDEs like MiKTeX or Overleaf
 ```
 
 - Document Class
@@ -102,7 +102,7 @@ $ cd capabnt
  <sub><b>Vitória Peçanha</b></sub></a> <a href="https://www.linkedin.com/in/vitoria-pecanha/" title="LinkedIn"></a>
 
 
-Feito por Vitória Peçanha 📚 Entre em contato!
+Made by Vitória Peçanha 📚 Contact me!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-pecanha/)](https://www.linkedin.com/in/vitoria-pecanha/) [![Gmail Badge](https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoriapecanha.log@gmail.com)](mailto:vitoriapecanha.log@gmail.com)
