@@ -7,7 +7,7 @@ Capa ABNT LaTex
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitoriape/coverABNT-pdfLaTex">
   
-  <a href="https://opensource.org/licenses/MIT">
+  <a href="https://github.com/vitoriape/capabnt/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
   </a>
   
