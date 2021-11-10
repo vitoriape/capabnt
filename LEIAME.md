@@ -3,15 +3,15 @@ Capa ABNT LaTex
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitoriape/coverABNT-pdfLaTex">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitoriape/capabnt">
   
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitoriape/coverABNT-pdfLaTex">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitoriape/capabnt">
   
   <a href="https://github.com/vitoriape/capabnt/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
   </a>
   
-  <a href="https://github.com/vitoriape/coverABNT-pdfLaTex/commits/master">
+  <a href="https://github.com/vitoriape/capabnt/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitoriape/coverABNT-pdfLaTex">
   </a>
 </p>
@@ -23,7 +23,7 @@ Capa ABNT LaTex
  <a href="#-ferramentas">Ferramentas</a> | 
  <a href="#-recursos">Recursos</a> | 
  <a href="#-instalação">Instalação</a> |
- <a href="https://github.com/vitoriape/capabnt/blob/main/README.pt-br.md#-autor">Autor</a> ◽
+ <a href="#-autor">Autor</a> ◽
 </p>
 
 ### 📌 Sobre
