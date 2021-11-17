@@ -22,8 +22,7 @@ ABNT LaTex Cover
  ◽ <a href="#-about">About</a> |
  <a href="#-tools">Tools</a> | 
  <a href="#-features">Features</a> | 
- <a href="#-setup">Setup</a> |
- <a href="#-author">Author</a> ◽
+ <a href="#-setup">Setup</a> ◽
 </p>
 
 ### 📌 About
@@ -99,16 +98,3 @@ $ cd capabnt
 ```
 
 ---
-
-### 💡 Author
-
-<a href="https://www.linkedin.com/in/vitoria-pecanha/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55922652?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Vitória Peçanha</b></sub></a> <a href="https://www.linkedin.com/in/vitoria-pecanha/" title="LinkedIn"></a>
-
-
-Made by Vitória Peçanha 📚 Contact me!
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-pecanha/)](https://www.linkedin.com/in/vitoria-pecanha/) [![Gmail Badge](https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoriapecanha.log@gmail.com)](mailto:vitoriapecanha.log@gmail.com)
