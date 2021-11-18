@@ -1,5 +1,5 @@
 <h3 align="center"> 
-<img alt="vmkdir banner" src="./assets/capabnt.banner.png" width="1000" height="350">
+<img alt="vmkdir banner" src="./assets/capabnt.banner.png" width="1000" height="400">
 </h3>
 
 <h1 align="center">
@@ -145,4 +145,6 @@ Para usar esse modelo de capa no Overleaf, basta seguir as instruções de [inst
 ### License
 
 This project is under the   
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+<a href="https://github.com/vitoriape/capabnt/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
+</a>
