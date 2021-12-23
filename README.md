@@ -1,5 +1,5 @@
 <h3 align="center"> 
-<img alt="vmkdir banner" src="./assets/capabnt.banner2.png" width="1000" height="400">
+<img alt="capabnt banner" src="./assets/capabnt.banner2.png" width="1000" height="400">
 </h3>
 
 <h1 align="center">
@@ -16,8 +16,8 @@
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitoriape/capabnt">
   
-  <a href="https://github.com/vitoriape/capabnt/blob/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
+  <a href="https://github.com/vitoriape/capabnt/blob/main/LICENSE.txt">
+    <img alt="License: LaTeX Project Public License v1.3c" src="https://img.shields.io/github/license/vitoriape/capabnt">
   </a>
   
   <a href="https://github.com/vitoriape/capabnt/commits/main">
@@ -29,6 +29,11 @@
 	 Status: Finished
 </h4>
 
+---
+
+[Português (PT-BR)](https://github.com/vitoriape/capabnt/blob/main/LEIAME.md) <img src="https://camo.githubusercontent.com/dcc375ada213d3ac04a9781518098cd4d071601bc2ccfc120025cc32b6d38fab/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f62722e737667" alt="brazil flag" width="20" height="20"> | [English (EN)](https://github.com/vitoriape/capabnt/blob/main/README.md)
+
+---
 ---
 
 Index
@@ -46,8 +51,6 @@ Index
 
 ## About
 This project is an LaTex template for creates titlepages/covers in ABNT standards. The tex file will provide a compiled PDF. This is a Tex project developed using `Tex Live 2021`.
-
->[README em Português (pt-br)](https://github.com/vitoriape/capabnt/blob/main/LEIAME.md). <img src="https://camo.githubusercontent.com/dcc375ada213d3ac04a9781518098cd4d071601bc2ccfc120025cc32b6d38fab/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f62722e737667" alt="brazil flag" width="20" height="20">
 
 ---
 
@@ -148,6 +151,6 @@ For use this template on Overleaf just follow the [setup](#instalação) directi
 ### License
 
 This project is under the   
-<a href="https://github.com/vitoriape/capabnt/blob/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
+<a href="https://github.com/vitoriape/capabnt/blob/main/LICENSE.txt">
+    <img alt="License: LaTeX Project Public License v1.3c" src="https://img.shields.io/github/license/vitoriape/capabnt">
 </a>
